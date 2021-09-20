@@ -8,7 +8,7 @@ def conversor(tipo_dato, valor_dolar):
 
 
 menu = """
-Bienvenido al el conversor de moneda
+Bienvenido al el conversor de moneda 💲
 
 1 - Pesos Colombianos
 2 - Pesos Argentinos
