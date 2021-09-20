@@ -1,2 +1,2 @@
 # Conversor
-Conversor de moneda Python
+Conversor de moneda colombiana, argentina y mexicana en Python.
