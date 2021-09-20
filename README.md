@@ -1,2 +1,2 @@
 # Conversor
-Conversor de monena Python
+Conversor de moneda Python
