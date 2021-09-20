@@ -1,5 +1,5 @@
 def conversor(tipo_dato, valor_dolar):
-    pesos = input('Cuantos pesos' + tipo_dato + 'tienes?: ')
+    pesos = input('Cuantos pesos ' + tipo_dato + ' tienes?: ')
     pesos = float(pesos)
     dolares = pesos / valor_dolar
     dolares = round(dolares, 2)
